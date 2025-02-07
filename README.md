@@ -1,3 +1,3 @@
 # P_RemedAppro
 
-Debian > Ubuntu
+Lien vers le site : https://emtum.odoo.com/

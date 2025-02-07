@@ -25,4 +25,13 @@
     - Veuillez modifier le readme de votre repo de telle sorte qu'il contiennent un lien vers votre site. Cela me permettra de vous donner un retour sur le site lui-même.
 
 - Journal de travail
-    -  ...
+    - 10 min : Retour de M. Carrel sur les journaux de travail de la semaine passée  
+    - 10 min : Perte d'un membre de l'équipe, Jonathan ne souhaite plus continuer le projet avec nous  
+    - 10 min : Proposition de rejoindre notre groupe de travail à Ryan Heuer : Il rejoint l'équipe !  
+    - 10 min : Création d'un nouveau site odoo pour repartir de zéro  
+    - 10 min : Mise à jour de la liste des tâches et répartition du travail pour le premier Pomodoro : Je dois m'occuper des pages de connexion et d'inscription  
+    - 30 min : Se renseigner sur l'ajout de nouvelles pages  
+    - 30 min : Création et personnalisation de la page d'inscription  
+    - 20 min : Modificaztion du style du site Web  
+    - 5 min : Ajout du lien du site dans le document Read Me  
+
