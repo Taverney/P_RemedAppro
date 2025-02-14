@@ -35,3 +35,9 @@
     - 20 min : Modificaztion du style du site Web  
     - 5 min : Ajout du lien du site dans le document Read Me  
 
+## 14.2
+- Feedback XCL
+    - Tout semble se dérouler correctement, continuez comme ça.
+
+- Journal de travail
+    - ...
