@@ -40,4 +40,12 @@
     - Tout semble se dérouler correctement, continuez comme ça.
 
 - Journal de travail
-    - ...
+    - 10 min : Explications de M. Carrel sur le juste milieu enre travail et loisirs  
+    - 15 min : Modifications dans la page d'accueil et tests pour la page d'inscription  
+    - 5 min : Modification dans les paramètres des pages  
+    - 35 min : Commencement de la rédaction pour la page "A propos"  
+    - 10 min : Création de edu-EMTUM pour bénéficier des fonctionnalités premium  
+    - 40 min : Tentatives (infructueuses) pour installer des plugins sur le nouveau site  
+    - 10 min : Discussion avec mon collègue (qui travaille sur un autre projet)  
+    - 10 min : Discussion avec Kilian Schopfer afin de regarder les différentes possibilités d'ajouter des annonces  
+
