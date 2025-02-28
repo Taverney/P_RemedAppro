@@ -54,3 +54,28 @@
 - Feedback XCL
     - Tout va bien, continuez
 
+- Journal de travail
+    - 10 min : Explications de M. Carrel sur deux tâches à effectuer aujourd'hui : Prendre connaissance de la façon de nommer les commits pour correctement les nommer et faire un bilan personnel de l'avancée du projet  
+    - 10 min : Réunion d'équipe pour se répartir les tâches  
+               - Kilian et moi améliorons l'esthétique et certaines options de la page d'accueil  
+               - Ryan crée une nouvelle page pour afficher l'heure et la météo de New York  
+               - Nous ajoutons tous une description sous notre nom sous l'onglet "A propos"  
+    - 10 min : Compléter le JDT  
+    - 15 min : Regarder les différentes possibilités esthétiques ainsi que comment rajouter des produits  
+    - 15 min : Ajout d'un produit au site !  
+    - 10 min : Ajout de l'heure et de la météo de New York avec Ryan  
+    - 10 min : Modification de la description du site  
+    - 20 min : Recherches sur les possibilités de mise en page et d'affichage des pages  
+    - 5 min : Reconfiguration de la page boutique  
+    - 10 min : Bilan de mon avancement sur le projet par rapport aux objecitfs du contrat  
+              - Avoir un site de vente avec au minimum 10 articles : Pas encore, mais maintenant que j'ai trouvé comment créer des annonces, l'objectif sera bientôt atteint  
+              - Pouvoir modifier ses infos utilisteur sur sa page de compte : C'est bon !  
+              - Pouvoir ajouter / modifier une annonce : Possible mais uniquement pour les développeurs du site. L'objectif serait que n'importe qui puisse le faire  
+              - Pouvoir contacter des annonceurs afin d'acheter le produit : Pas possible car les utilisateurs externes ne peuvent pas créer d'annonces !  
+              --> Je vais me concentrer sur ajouter les 10 articles et l'ajout de la possibilité de créer des annonces pour n'importe quel utilisateur connecté  
+    - 5 min : Ajout d'un bouton pour la future page de création d'annonces  
+    - 10 min : Faire en sorte que le bouton ne s'affiche  
+    - 5 min : Ajout d'une description à mon profil sous l'onglet "A propos"  
+    - 5 min : Vérification du JDT  
+
+
