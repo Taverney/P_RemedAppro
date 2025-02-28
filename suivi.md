@@ -49,3 +49,8 @@
     - 10 min : Discussion avec mon collègue (qui travaille sur un autre projet)  
     - 10 min : Discussion avec Kilian Schopfer afin de regarder les différentes possibilités d'ajouter des annonces  
 
+## 28.2
+
+- Feedback XCL
+    - Tout va bien, continuez
+
