@@ -68,14 +68,21 @@
     - 20 min : Recherches sur les possibilités de mise en page et d'affichage des pages  
     - 5 min : Reconfiguration de la page boutique  
     - 10 min : Bilan de mon avancement sur le projet par rapport aux objecitfs du contrat  
-              - Avoir un site de vente avec au minimum 10 articles : Pas encore, mais maintenant que j'ai trouvé comment créer des annonces, l'objectif sera bientôt atteint  
-              - Pouvoir modifier ses infos utilisteur sur sa page de compte : C'est bon !  
-              - Pouvoir ajouter / modifier une annonce : Possible mais uniquement pour les développeurs du site. L'objectif serait que n'importe qui puisse le faire  
-              - Pouvoir contacter des annonceurs afin d'acheter le produit : Pas possible car les utilisateurs externes ne peuvent pas créer d'annonces !  
-              --> Je vais me concentrer sur ajouter les 10 articles et l'ajout de la possibilité de créer des annonces pour n'importe quel utilisateur connecté  
+        - Avoir un site de vente avec au minimum 10 articles : Pas encore, mais maintenant que j'ai trouvé comment créer des annonces, l'objectif sera bientôt atteint  
+        - Pouvoir modifier ses infos utilisteur sur sa page de compte : C'est bon !  
+        - Pouvoir ajouter / modifier une annonce : Possible mais uniquement pour les développeurs du site. L'objectif serait que n'importe qui puisse le faire  
+        - Pouvoir contacter des annonceurs afin d'acheter le produit : Pas possible car les utilisateurs externes ne peuvent pas créer d'annonces !  
+        - --> Je vais me concentrer sur ajouter les 10 articles et l'ajout de la possibilité de créer des annonces pour n'importe quel utilisateur connecté  
     - 5 min : Ajout d'un bouton pour la future page de création d'annonces  
     - 10 min : Faire en sorte que le bouton ne s'affiche  
     - 5 min : Ajout d'une description à mon profil sous l'onglet "A propos"  
     - 5 min : Vérification du JDT  
 
+## 7.3
 
+- Feedback XCL
+    - Journal OK
+    - Le dernier commit est OK, continuez
+    - Continuez
+
+- Journal de travail
