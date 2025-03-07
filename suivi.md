@@ -86,4 +86,18 @@
     - Continuez
 
 - Journal de travail
+    - 15 min : Retour de M. Carrel sur les noms des commit et le document sur le statut du projet  
+    - 10 min : Rédaction du fichier status.md en y ajoutant le bilan de l'état du projet réalisé lors du dernier cours + commit  
+    - 10 min : Réunion d'équipe pour se répartir les tâches à réaliser  
+        - Ryan s'occupe de l'esthétique / des finitions pour la page d'accueil  
+        - Kilian s'occupe de mettre en place la posibilité de créer des annonces pour tous les utilisateurs connectés  
+        - Je m'occupe des produits et du chat général  
+    - 5 min : Résumé de la réunion d'équipe dans le JDT  
+    - 10 min : Ajout de suggestions d'autres produits / d'accesoires lorsque l'on clique sur un produit ou que l'on l'ajoute au panier  
+    - 10 min : Salissement involontaire d'une chaussure de mon collègue, Ervan Lemqadem  
+    - 1h : Recherches (infructueuses) sur comment ajouter un chat général où tout le monde peut se parler  
+    - 5 min : Discussion avec M. Carrel pour tester d'importer la base de données (ça n'a pas fonctionné)  
+    - 5 min : Mise à jour du JDT  
+    - 5 min : Recherches avec Kilian pour pouvoir faire en sorte que tout le monde puisse créer des annonces  
+
 
