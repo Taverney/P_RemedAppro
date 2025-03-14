@@ -101,3 +101,14 @@
     - 5 min : Recherches avec Kilian pour pouvoir faire en sorte que tout le monde puisse créer des annonces  
 
 
+
+## 14.3
+
+- Feedback XCL
+    - Commits et Jdt OK
+    - Le support Odoo m'a confirmé qu'il n'est pas possible deconvertir un site existant en "edu-..."
+    - Des événements comme le problème de chaussure n'ont pas besoin de figurer dans le journal de travail
+    - Continuez...
+
+- Journal de travail
+    -
