@@ -126,5 +126,8 @@
     - 5 min : Compléter le journal de travail  
     - 5 min : Suggestions à Ervan pour améliorer son MasterMind  
     - 10 min : Mise à jour du document "status.md" en y inscrivant l'état actuel du projet  
+    - 10 min : Commit du fichier status.md mis à jour  
+    - 20 min : Découverte du projet de Daniel Meilli. J'ai également trouvé son projet très intéressant !  
+    - 10 min : Test du mode de payement Stripe que Kilian a mis en place  
 
 
