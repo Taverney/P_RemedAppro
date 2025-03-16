@@ -130,4 +130,8 @@
     - 20 min : Découverte du projet de Daniel Meilli. J'ai également trouvé son projet très intéressant !  
     - 10 min : Test du mode de payement Stripe que Kilian a mis en place  
 
+# Conclusion
 
+Je valide votre projet. Je vous félicite parce que vous avez pris un risque, en vous lançant dans un domaine tout nouveau et que vous avez réussi à atteindre vos objectifs. Votre attitude a été excellente durant tout ce projet. Vous avez cherché à résoudre les problèmes par vous-même, et vous avez été proactif dans les moments de difficulté ou de changement de direction.
+
+Continuez comme ça
